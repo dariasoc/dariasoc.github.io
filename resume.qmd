@@ -1,86 +1,78 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Daniel Arias Ocampo
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Daniel Arias Ocampo
+Business Analyst
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="danieliariasocampo@gmail.com">isaac@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Daniel_Arias">My wikipedia page</a>
 </div>
 
 
-## Currently
+## Personal Statement
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+I am a trilingual student in Spanish, Tagalog, and English. My professional experience includes Marketing; Financial 
+Analysis; Project Management; and Business Analytics. Strong leadership skills. Collaborator who coordinates 
+individual strengths to deliver a solid product. Knowledge and experience with Analytics Programs. 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+__Bachelor in Business Analytics__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Experience
 
-- Sizar
+__Data Engineer__                                          (April 2024- July 2024)
+Extensiv                                                               Sandy, Utah
 
-`1667 - death`
-__Trinity College, Cambridge__
+• Developed and maintained 10+ interactive dashboards to visualize key performance indicators for a third-party 
+logistics (3PL) company, enhancing decision-making processes and operational efficiency. 
 
-- Fellow
+• Contributed to the optimization of data collection and storage processes, reducing data retrieval times, and 
+improving system performance.
 
+• Performed detailed analysis of large datasets to identify trends, anomalies, and opportunities for process 
+improvements within the logistics domain.
 
+__Course Analyst__                                     (April 2022- December 2022)
+BYU-Idaho                                                           Rexburg, Idaho
 
-## Awards
+• Analyzed quantitative and qualitative data from student assessments, surveys, and course evaluations, producing 10+ actionable reports a week to guide evidence-based decision-making. 
 
-`2012`
-President, *Royal Society*, London, UK
+• Conducted 8+ detailed course audits daily to ensure clearness and accuracy of material causing improvement in 10+ courses. 
 
-Associate, *French Academy of Science*, Paris, France
+• Utilized weekly data-driven insights to recommend modifications to course structures, assessments, and 
+activities, enhancing engagement and student performance. 
 
+__Personal Finance Teacher Assistant__                   (January 2023-July 2024)
+BYU-Idaho                                                           Rexburg, Idaho
 
+• Analyzed quantitative and qualitative data from student assessments, surveys, and course evaluations, producing 10+ actionable reports a week to guide evidence-based decision-making. 
 
-## Publications
+• Conducted 8+ detailed course audits daily to ensure clearness and accuracy of material causing improvement in 10+ courses. 
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+• Utilized weekly data-driven insights to recommend modifications to course structures, assessments, and 
+activities, enhancing engagement and student performance. 
 
-### Journals
+## Volunteer Experience
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+__Full-Time Representative__                              (March 2019- April 2020)
+The Church of Jesus Christ of Latter-Day Saints           Quezon City, Philippines
 
-`1669`
-Lectiones opticæ.
+• Monitored and lead groups of 15-20 volunteers to ensure quality control deriving in a better and more clear understanding about the purpose of the volunteering experience. 
 
-etc. etc. etc.
+• Completed 60+ work hours a week with people from varied backgrounds and cultures, helping to develop 
+teamwork. 
 
-### Patents
+## Skills
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+• SQL, ALTERYX, Tableau, Power BI, Python, Meticulous. 
 
+• Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of 
+information with diligence and accuracy
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+• Strong Pyhton and R Studio Analytical Skills
 
 
 
